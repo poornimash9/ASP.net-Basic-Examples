@@ -1,0 +1,5 @@
+C:\Users\Poornima\Desktop\ASP.net\ASPnet\HelloWorldProject\HelloWorldProject\bin\HelloWorldProject.dll
+C:\Users\Poornima\Desktop\ASP.net\ASPnet\HelloWorldProject\HelloWorldProject\bin\HelloWorldProject.pdb
+C:\Users\Poornima\Desktop\ASP.net\ASPnet\HelloWorldProject\HelloWorldProject\obj\Debug\HelloWorldProject.csprojResolveAssemblyReference.cache
+C:\Users\Poornima\Desktop\ASP.net\ASPnet\HelloWorldProject\HelloWorldProject\obj\Debug\HelloWorldProject.dll
+C:\Users\Poornima\Desktop\ASP.net\ASPnet\HelloWorldProject\HelloWorldProject\obj\Debug\HelloWorldProject.pdb
